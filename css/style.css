@@ -1,0 +1,47 @@
+*, .html, .body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.HeadIMG {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 10vh;
+    size: 10px;
+}
+.form {
+    background-image: url(../IMG/tenor-saxophone-6624725__340.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.lastimg {
+    background-image: url(../IMG/monastery-6560623__340.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.thisimg {
+    background-image: url(../IMG/field-5932123__340.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.firstimg {
+    background-image: url(../IMG/cathedral-6564157__340.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.about {
+    background-image: url(../IMG/container-ship-6631117__340.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.contact {
+    background-image: url(../IMG/palace-4781577__340.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
